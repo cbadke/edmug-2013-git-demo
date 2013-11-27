@@ -2,4 +2,4 @@ param(
     [String] $FilePath
     )
 
-Write-Host $FilePath
+Write-Host "Parent: $(Split-Path -Parent $FilePath)"
