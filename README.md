@@ -16,7 +16,7 @@ These are the slides([pptx](https://github.com/cbadke/edmug-2013-git-demo/releas
 * [GitHub for Windows](http://windows.github.com/)
 * [Git Extensions](https://code.google.com/p/gitextensions/)
 
-###Talk to Me!###
+##Talk to Me!##
 
 * [GitHub](https://github.com/cbadke)
 * [Twitter](https://twitter.com/cbadkidrun)
